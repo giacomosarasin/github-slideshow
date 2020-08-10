@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+LM still loves huge curvy bananas
 Use the left arrow to go back!
